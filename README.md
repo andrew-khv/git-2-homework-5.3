@@ -10,4 +10,4 @@
 * Факт 2
 * Факт 3
 
-Если хотите связаться со мной - [mailto:andrey.ragulin@telss.ru]
+Если хотите связаться со мной - [почта](mailto:andrey.ragulin@telss.ru)
